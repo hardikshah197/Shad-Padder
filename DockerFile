@@ -1,0 +1,3 @@
+FROM node
+COPY . /DockerTestDir/index.js
+CMD node /index.js
