@@ -6,7 +6,7 @@ Get perfect shadows every time for the non-shaded elements
 
 `npm i shadpadder --save`
 
-Then...
+Then, procedure how to use it as follows:-
 
 ```
 import { shadpadder} from 'shadpadder;
