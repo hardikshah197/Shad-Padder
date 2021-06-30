@@ -16,6 +16,7 @@ shadpadder({
     padding: false
 });
 ```
+
 ## Options
 
 ShadPadder supports @ options, both of which are optional:
