@@ -19,7 +19,6 @@ shadpadder({
 
 ## Options
 
-
 ShadPadder supports @ options, both of which are optional:
 
 * *shadow_type* - _hard | soft_ (Defaults to soft)
